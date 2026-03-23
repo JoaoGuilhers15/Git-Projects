@@ -1,5 +1,5 @@
-nome = input('Seu nome: ')
-idade = float(input('Sua idade: '))
+nome = input('Insira o seu nome: ')
+idade = float(input('Insira sua idade: '))
 
 if idade >= 18:
     print(f'{nome}, você é maior de idade')
